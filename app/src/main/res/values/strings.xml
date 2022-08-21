@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FindContacts</string>
+    <string name="find_People_Text">Let\'s find people\n you know</string>
+    <string name="contact_info">We\'ll periodically import and store your contacts to\n suggest connections and show you relevant updates.\n You control who you connect to, and you can turnoff the contacts sync anytime</string>
+</resources>
